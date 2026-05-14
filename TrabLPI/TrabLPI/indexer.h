@@ -1,13 +1,5 @@
 #ifndef INDEXER_H
 #define INDEXER_H
-
-// ============================================================
-// indexer.h
-// Definição das funções responsáveis por:
-//  - Varrer arquivos .txt e popular a tabela hash (indexação).
-//  - Buscar termos e exibir os trechos com contexto (recuperação).
-// ============================================================
-
 #include "hash_table.h"
 
 // Número de caracteres de contexto exibidos ao redor do termo
