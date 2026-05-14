@@ -5,7 +5,7 @@
 #define TAMANHO_TABELA     1024  // Número de buckets da tabela hash
 #define MAX_TERMO          51    // Tamanho máximo de um termo (50 chars + '\0')  
 #define MAX_NOME_ARQUIVO   71    // Tamanho máximo do nome do arquivo             
-#define MIN_TAMANHO_TERMO  5     // Termos menores que isso não entram na tabela  
+#define MIN_TAMANHO_TERMO  2     // Termos menores que isso não entram na tabela  
 
 /* 
   Ocorrencia
