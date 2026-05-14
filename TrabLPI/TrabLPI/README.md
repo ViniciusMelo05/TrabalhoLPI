@@ -35,7 +35,7 @@ gcc -Wall -std=c11 -o indexador main.c hash_table.c indexer.c
 
 Depois execute:
 
-./indexador ./sua_pasta_com_txts
+./indexador /sua_pasta_com_txts
 ```
 
 
